@@ -8,7 +8,11 @@ int main()
 	int value;
 	std::cin >> value,"\n";// we use cin to scan
 	std::cout << value, "\n";
-	std::cout << "YO!";
+	std::cout << "YO!\n";
+	std::cout << "Please enter your name";
+	char name[20];
+	std::cin >> name;
+	std::cout << name;
 	system("pause");
 	return 0;
 	
