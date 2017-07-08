@@ -8,7 +8,7 @@ int main()
 	int value;
 	std::cin >> value,"\n";// we use cin to scan
 	std::cout << value, "\n";
-	std::cout << "whats up yo";
+	std::cout << "YO!";
 	system("pause");
 	return 0;
 	
